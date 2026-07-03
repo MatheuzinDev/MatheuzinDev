@@ -1,58 +1,63 @@
-<h1 align="center">Olá, eu sou Matheus Diógenes 👋</h1>
-
-<h3 align="center">Desenvolvedor Full Stack</h3>
-
-<p align="center">
-  Construo aplicações web modernas, responsivas e funcionais, unindo boas interfaces com soluções eficientes no back-end.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-di%C3%B3genes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:matheusdiogenesdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-</p>
-
----
-
-## Sobre mim
-
-Sou desenvolvedor Full Stack com foco na criação de aplicações web modernas, responsivas e funcionais.
-
-Tenho experiência com tecnologias front-end como HTML, CSS, JavaScript, React e Bootstrap, e busco evoluir constantemente também no desenvolvimento back-end, criando soluções completas, bem estruturadas e voltadas para uma boa experiência do usuário.
-
-## Tecnologias
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Matheus+Di%C3%B3genes;Full+Stack+Developer;Building+useful+and+well-crafted+web+experiences" alt="Typing SVG" />
 </div>
-
-## Estatísticas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheuzinDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Matheus" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuzinDev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Matheus" />
-</div>
-
-## Projetos em destaque
-
-Em breve adicionarei aqui alguns dos meus principais projetos.
-
-## Vamos conversar?
-
-Estou aberto a conexões, oportunidades e conversas sobre desenvolvimento web.
-
-<p align="left">
   <a href="https://www.linkedin.com/in/matheus-di%C3%B3genes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:matheusdiogenesdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2>About me</h2>
+      <p>
+        Full Stack Developer
+      </p>
+      <ul>
+        <li>Computer Science student - University of Fortaleza
+        </li>
+        <li>I'm 20 years old</li>
+        <li>I'm passionate about sports, especially futsal</li>
+        <li>I'm very competitive, and I really mean very</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding" />
+    </td>
+  </tr>
+</table>
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nestjs,postgres,docker&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, NestJS, PostgreSQL and Docker" />
+</div>
+
+## GitHub Overview
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MatheuzinDev&show_icons=true&hide_border=true&count_private=true&border_radius=12&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=E5E7EB" alt="Matheus GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuzinDev&layout=compact&hide_border=true&border_radius=12&bg_color=0D1117&title_color=7C3AED&text_color=E5E7EB" alt="Matheus most used languages" />
+</div>
+
+## Let's connect
+
+<p>
+  I'm open to connecting, sharing ideas and talking about web development, technology or opportunities.
 </p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/matheus-di%C3%B3genes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:matheusdiogenesdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</div>
